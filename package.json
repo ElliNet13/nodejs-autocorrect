@@ -10,7 +10,7 @@
   "author": "ElliNet13",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.0.6",
+    "@types/node": "^18.19.29",
     "an-array-of-english-words": "^2.0.0",
     "natural": "^7.0.5"
   }
