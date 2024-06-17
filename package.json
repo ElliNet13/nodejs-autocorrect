@@ -12,6 +12,6 @@
   "dependencies": {
     "@types/node": "^18.0.6",
     "an-array-of-english-words": "^2.0.0",
-    "natural": "^7.0.5"
+    "natural": "^7.0.6"
   }
 }
